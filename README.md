@@ -18,7 +18,7 @@ Key findings:
 - Total revenue: $4.45M
 - Top 20% customers generate 79.14% of total revenue
 
-![Customer Loyalty Overview](images/overview.png)
+![Customer Loyalty Overview](Images/OVERVIEW.png)
 
 ### 2. RFM & CLV Analysis
 This page analyzes customer value using Recency, Frequency, Monetary value, and CLV segmentation.
@@ -28,7 +28,7 @@ Key findings:
 - Very High CLV customers contribute the majority of total revenue
 - Potential customers provide strong upselling opportunities
 
-![RFM & CLV Analysis](images/rfm_clv_analysis.png)
+![RFM & CLV Analysis](Images/RFM & CLV ANALYSIS.png)
 
 ### 3. Churn Prediction & Retention Analytics
 This page identifies churned customers, high-risk customers, and key churn drivers.
@@ -39,7 +39,7 @@ Key findings:
 - Frequency and satisfaction are key churn drivers
 - Lost customers account for the highest churn volume
 
-![Churn Prediction & Retention](images/churn_retention.png)
+![Churn Prediction & Retention](Images/CHURN & PREDICTION.png)
 
 ## Tools Used
 
