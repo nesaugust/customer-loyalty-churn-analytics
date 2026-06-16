@@ -28,7 +28,7 @@ Key findings:
 - Very High CLV customers contribute the majority of total revenue
 - Potential customers provide strong upselling opportunities
 
-![RFM & CLV Analysis](Images/RFM & CLV ANALYSIS.png)
+![RFM & CLV Analysis](Images/RFM_CLV.png)
 
 ### 3. Churn Prediction & Retention Analytics
 This page identifies churned customers, high-risk customers, and key churn drivers.
@@ -39,7 +39,7 @@ Key findings:
 - Frequency and satisfaction are key churn drivers
 - Lost customers account for the highest churn volume
 
-![Churn Prediction & Retention](Images/CHURN & PREDICTION.png)
+![Churn Prediction & Retention](Images/CHURN.png)
 
 ## Tools Used
 
